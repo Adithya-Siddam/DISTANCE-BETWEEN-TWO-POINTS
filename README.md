@@ -9,7 +9,8 @@ Create a python program to find the distance between two points.
 get the co-ordinate values from user.
 ### Step 3: 
 Substitute the values in the distance formula  
-![formula](/formula.jpg)
+![FORMULA](/IMAGES/img4.png)
+
 ### Step 4: 
 Display the output.
 ### Step 5: 
